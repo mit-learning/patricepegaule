@@ -1,0 +1,7 @@
+#intro {
+    background-image: url("../images/mit.jpg");
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    height: 300vh;
+}
